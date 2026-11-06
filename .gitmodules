@@ -1,0 +1,3 @@
+[submodule "dispatch"]
+	path = dispatch
+	url = https://github.com/smurf83/dispatch.git
